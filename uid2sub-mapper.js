@@ -1,0 +1,1 @@
+token.setSubject(user.getFirstAttribute("LDAP_ID"));

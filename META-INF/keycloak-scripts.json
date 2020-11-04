@@ -1,0 +1,9 @@
+{
+    "mappers": [
+        {
+            "name": "Uid2Sub Mapper for Tokens",
+            "fileName": "uid2sub-mapper.js",
+            "description": "Mapper for mapping LDAP uid to sub in JWT"
+        }
+    ]
+}
