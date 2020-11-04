@@ -1,6 +1,6 @@
 # Purpose
 
-Due to problem with duplicate sub in JWT, it is possible to use this js mapper. It is just a workaround solution.
+Due to problem with duplicate sub in JWT, it is possible to use this js mapper. It is just a workaround solution and I do not recommend using it in a production environment.
 
 ## Related JIRA issue
 https://issues.redhat.com/browse/KEYCLOAK-14309
